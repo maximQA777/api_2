@@ -1,6 +1,6 @@
 from selene import browser, have, be
 from allure_commons._allure import step
-from qa_api_demoSHOP.demoshop_api import BaseApiClient
+from qa_api_demoshop.demoshop_api import BaseApiClient
 from test.conftest import BASE_URL
 from time import sleep
 
